@@ -75,7 +75,10 @@ vs 12.3% of non-medical users. Surprisingly, the dual-purpose group
 reports the worst mental health (14.2% poor), consistent with their
 higher rates of anxiety and depression.
 
-### Finding 6 — Predictive Model
+### Finding 6 — Education by Purpose
+Medical and non-medical users have similar education profiles (~37% bachelor's or more). Dual-purpose users show lower educational attainment (26.7% bachelor's or more, 39% high school or less), consistent with broader socioeconomic factors that may influence both health outcomes and cannabis use patterns.
+
+### Finding 7 — Predictive Model
 A logistic regression model predicts medical vs recreational cannabis
 use with 71% accuracy and AUC of 0.755 using only demographic, health,
 route of administration, and belief variables. The three strongest
